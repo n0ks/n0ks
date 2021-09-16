@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=n0ks&theme=gitdimme&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
