@@ -16,4 +16,5 @@
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart&logoColor=0175C2)
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter&logoColor=#02569B)
 ![Neovim](https://img.shields.io/badge/-Neovim-05122A?style=flat&logo=neovim&logoColor=57A143)
+![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=0000f2)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=dfb914)
