@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://media1.giphy.com/media/iIifSQSQUKteo/giphy.gif?cid=ecf05e47gvk1m9nqywsqkve8reth8abjjs1r6rq2dnh81v74&rid=giphy.gif&ct=s" width="30px">
+# Hello, folks! <img src="https://media1.giphy.com/media/iIifSQSQUKteo/giphy.gif?cid=ecf05e47gvk1m9nqywsqkve8reth8abjjs1r6rq2dnh81v74&rid=giphy.gif&ct=s" width="60px">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=n0ks&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
