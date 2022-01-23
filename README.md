@@ -23,3 +23,4 @@
 
 [![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord&logoColor=5865F2)](https://discordapp.com/users/273905071245230091)
 [![Youtube](https://img.shields.io/badge/Youtube-05122A?style=flat&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCJEx2ngoswecTEjb85h9zZw)
+[![Twitter](https://img.shields.io/badge/Twitter-05122A?style=flat&logo=twitter&logoColor=1DA1F2)](https://twitter.com/xnoksx)
