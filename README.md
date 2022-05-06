@@ -9,7 +9,7 @@
 [![Youtube](https://img.shields.io/badge/Youtube-05122A?style=flat&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCJEx2ngoswecTEjb85h9zZw)
 [![Twitter](https://img.shields.io/badge/Twitter-05122A?style=flat&logo=twitter&logoColor=1DA1F2)](https://twitter.com/xnoksx)
 
-** What i'm doing now? **
+**What i'm doing now?**
 - 🔭 I’m currently working on mobile banking apps                    
 - 🌱 Looking to learn go lang (procrastination is my ally)
   
@@ -29,5 +29,6 @@
 
 
 **Useless trophies**
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=n0ks&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
