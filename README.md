@@ -1,6 +1,13 @@
 # Hello, folks! <img src="https://media1.giphy.com/media/iIifSQSQUKteo/giphy.gif?cid=ecf05e47gvk1m9nqywsqkve8reth8abjjs1r6rq2dnh81v74&rid=giphy.gif&ct=s" width="60px">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=n0ks&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+**Socials**
+
+[![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord&logoColor=5865F2)](https://discordapp.com/users/273905071245230091)
+[![Youtube](https://img.shields.io/badge/Youtube-05122A?style=flat&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCJEx2ngoswecTEjb85h9zZw)
+[![Twitter](https://img.shields.io/badge/Twitter-05122A?style=flat&logo=twitter&logoColor=1DA1F2)](https://twitter.com/xnoksx)
 
 - 🔭 I’m currently working on mobile banking apps                    
 - 🌱 Looking to learn go lang
@@ -19,8 +26,7 @@
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=0000f2)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux&logoColor=dfb914)
 
-**Socials**
 
-[![Discord](https://img.shields.io/badge/-Discord-05122A?style=flat&logo=discord&logoColor=5865F2)](https://discordapp.com/users/273905071245230091)
-[![Youtube](https://img.shields.io/badge/Youtube-05122A?style=flat&logo=youtube&logoColor=FF0000)](https://www.youtube.com/channel/UCJEx2ngoswecTEjb85h9zZw)
-[![Twitter](https://img.shields.io/badge/Twitter-05122A?style=flat&logo=twitter&logoColor=1DA1F2)](https://twitter.com/xnoksx)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=n0ks&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
