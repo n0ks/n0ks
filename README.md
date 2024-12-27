@@ -8,10 +8,6 @@ Hi there! Here’s what I’ve been up to lately:
 - **Exploring Game Development:** I just recently started making an RPG game with Flutter
 - **Learning Backend Development:** I’m diving into Golang to expand my backend skills
 - **Improving Processes:** I enjoy finding ways to make coding and teamwork simpler and faster.  
-- **Collaborating Internationally:** I work with teams worldwide and keep improving my English and Spanish.  
-
-
-  
 
 &#x200B;
 
