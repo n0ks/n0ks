@@ -34,5 +34,5 @@ Hi there! Here’s what I’ve been up to lately:
 
 **Useless trophies**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=n0ks&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=n0ks&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
